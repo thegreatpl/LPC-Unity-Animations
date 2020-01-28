@@ -1,0 +1,6559 @@
+fileFormatVersion: 2
+guid: 3f06961e57b0f214baaabbd2e778bcec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: hu_0
+  - first:
+      213: 21300002
+    second: hu_1
+  - first:
+      213: 21300004
+    second: hu_2
+  - first:
+      213: 21300006
+    second: hu_3
+  - first:
+      213: 21300008
+    second: hu_4
+  - first:
+      213: 21300010
+    second: hu_5
+  - first:
+      213: 21300012
+    second: sh_r_0
+  - first:
+      213: 21300014
+    second: sh_r_1
+  - first:
+      213: 21300016
+    second: sh_r_2
+  - first:
+      213: 21300018
+    second: sh_r_3
+  - first:
+      213: 21300020
+    second: sh_r_4
+  - first:
+      213: 21300022
+    second: sh_r_5
+  - first:
+      213: 21300024
+    second: sh_r_6
+  - first:
+      213: 21300026
+    second: sh_r_7
+  - first:
+      213: 21300028
+    second: sh_r_8
+  - first:
+      213: 21300030
+    second: sh_r_9
+  - first:
+      213: 21300032
+    second: sh_r_10
+  - first:
+      213: 21300034
+    second: sh_r_11
+  - first:
+      213: 21300036
+    second: sh_r_12
+  - first:
+      213: 21300038
+    second: sh_d_0
+  - first:
+      213: 21300040
+    second: sh_d_1
+  - first:
+      213: 21300042
+    second: sh_d_2
+  - first:
+      213: 21300044
+    second: sh_d_3
+  - first:
+      213: 21300046
+    second: sh_d_4
+  - first:
+      213: 21300048
+    second: sh_d_5
+  - first:
+      213: 21300050
+    second: sh_d_6
+  - first:
+      213: 21300052
+    second: sh_d_7
+  - first:
+      213: 21300054
+    second: sh_d_8
+  - first:
+      213: 21300056
+    second: sh_d_9
+  - first:
+      213: 21300058
+    second: sh_d_10
+  - first:
+      213: 21300060
+    second: sh_d_11
+  - first:
+      213: 21300062
+    second: sh_d_12
+  - first:
+      213: 21300064
+    second: sh_l_0
+  - first:
+      213: 21300066
+    second: sh_l_1
+  - first:
+      213: 21300068
+    second: sh_l_2
+  - first:
+      213: 21300070
+    second: sh_l_3
+  - first:
+      213: 21300072
+    second: sh_l_4
+  - first:
+      213: 21300074
+    second: sh_l_5
+  - first:
+      213: 21300076
+    second: sh_l_6
+  - first:
+      213: 21300078
+    second: sh_l_7
+  - first:
+      213: 21300080
+    second: sh_l_8
+  - first:
+      213: 21300082
+    second: sh_l_9
+  - first:
+      213: 21300084
+    second: sh_l_10
+  - first:
+      213: 21300086
+    second: sh_l_11
+  - first:
+      213: 21300088
+    second: sh_l_12
+  - first:
+      213: 21300090
+    second: sh_t_0
+  - first:
+      213: 21300092
+    second: sh_t_1
+  - first:
+      213: 21300094
+    second: sh_t_2
+  - first:
+      213: 21300096
+    second: sh_t_3
+  - first:
+      213: 21300098
+    second: sh_t_4
+  - first:
+      213: 21300100
+    second: sh_t_5
+  - first:
+      213: 21300102
+    second: sh_t_6
+  - first:
+      213: 21300104
+    second: sh_t_7
+  - first:
+      213: 21300106
+    second: sh_t_8
+  - first:
+      213: 21300108
+    second: sh_t_9
+  - first:
+      213: 21300110
+    second: sh_t_10
+  - first:
+      213: 21300112
+    second: sh_t_11
+  - first:
+      213: 21300114
+    second: sh_t_12
+  - first:
+      213: 21300116
+    second: sl_r_0
+  - first:
+      213: 21300118
+    second: sl_r_1
+  - first:
+      213: 21300120
+    second: sl_r_2
+  - first:
+      213: 21300122
+    second: sl_r_3
+  - first:
+      213: 21300124
+    second: sl_r_4
+  - first:
+      213: 21300126
+    second: sl_r_5
+  - first:
+      213: 21300128
+    second: sl_d_0
+  - first:
+      213: 21300130
+    second: sl_d_1
+  - first:
+      213: 21300132
+    second: sl_d_2
+  - first:
+      213: 21300134
+    second: sl_d_3
+  - first:
+      213: 21300136
+    second: sl_d_4
+  - first:
+      213: 21300138
+    second: sl_d_5
+  - first:
+      213: 21300140
+    second: sl_l_0
+  - first:
+      213: 21300142
+    second: sl_l_1
+  - first:
+      213: 21300144
+    second: sl_l_2
+  - first:
+      213: 21300146
+    second: sl_l_3
+  - first:
+      213: 21300148
+    second: sl_l_4
+  - first:
+      213: 21300150
+    second: sl_l_5
+  - first:
+      213: 21300152
+    second: sl_t_0
+  - first:
+      213: 21300154
+    second: sl_t_1
+  - first:
+      213: 21300156
+    second: sl_t_2
+  - first:
+      213: 21300158
+    second: sl_t_3
+  - first:
+      213: 21300160
+    second: sl_t_4
+  - first:
+      213: 21300162
+    second: sl_t_5
+  - first:
+      213: 21300164
+    second: wc_r_0
+  - first:
+      213: 21300166
+    second: wc_r_1
+  - first:
+      213: 21300168
+    second: wc_r_2
+  - first:
+      213: 21300170
+    second: wc_r_3
+  - first:
+      213: 21300172
+    second: wc_r_4
+  - first:
+      213: 21300174
+    second: wc_r_5
+  - first:
+      213: 21300176
+    second: wc_r_6
+  - first:
+      213: 21300178
+    second: wc_r_7
+  - first:
+      213: 21300180
+    second: wc_r_8
+  - first:
+      213: 21300182
+    second: wc_d_0
+  - first:
+      213: 21300184
+    second: wc_d_1
+  - first:
+      213: 21300186
+    second: wc_d_2
+  - first:
+      213: 21300188
+    second: wc_d_3
+  - first:
+      213: 21300190
+    second: wc_d_4
+  - first:
+      213: 21300192
+    second: wc_d_5
+  - first:
+      213: 21300194
+    second: wc_d_6
+  - first:
+      213: 21300196
+    second: wc_d_7
+  - first:
+      213: 21300198
+    second: wc_d_8
+  - first:
+      213: 21300200
+    second: wc_l_0
+  - first:
+      213: 21300202
+    second: wc_l_1
+  - first:
+      213: 21300204
+    second: wc_l_2
+  - first:
+      213: 21300206
+    second: wc_l_3
+  - first:
+      213: 21300208
+    second: wc_l_4
+  - first:
+      213: 21300210
+    second: wc_l_5
+  - first:
+      213: 21300212
+    second: wc_l_6
+  - first:
+      213: 21300214
+    second: wc_l_7
+  - first:
+      213: 21300216
+    second: wc_l_8
+  - first:
+      213: 21300218
+    second: wc_t_0
+  - first:
+      213: 21300220
+    second: wc_t_1
+  - first:
+      213: 21300222
+    second: wc_t_2
+  - first:
+      213: 21300224
+    second: wc_t_3
+  - first:
+      213: 21300226
+    second: wc_t_4
+  - first:
+      213: 21300228
+    second: wc_t_5
+  - first:
+      213: 21300230
+    second: wc_t_6
+  - first:
+      213: 21300232
+    second: wc_t_7
+  - first:
+      213: 21300234
+    second: wc_t_8
+  - first:
+      213: 21300236
+    second: th_r_0
+  - first:
+      213: 21300238
+    second: th_r_1
+  - first:
+      213: 21300240
+    second: th_r_2
+  - first:
+      213: 21300242
+    second: th_r_3
+  - first:
+      213: 21300244
+    second: th_r_4
+  - first:
+      213: 21300246
+    second: th_r_5
+  - first:
+      213: 21300248
+    second: th_r_6
+  - first:
+      213: 21300250
+    second: th_r_7
+  - first:
+      213: 21300252
+    second: th_d_0
+  - first:
+      213: 21300254
+    second: th_d_1
+  - first:
+      213: 21300256
+    second: th_d_2
+  - first:
+      213: 21300258
+    second: th_d_3
+  - first:
+      213: 21300260
+    second: th_d_4
+  - first:
+      213: 21300262
+    second: th_d_5
+  - first:
+      213: 21300264
+    second: th_d_6
+  - first:
+      213: 21300266
+    second: th_d_7
+  - first:
+      213: 21300268
+    second: th_l_0
+  - first:
+      213: 21300270
+    second: th_l_1
+  - first:
+      213: 21300272
+    second: th_l_2
+  - first:
+      213: 21300274
+    second: th_l_3
+  - first:
+      213: 21300276
+    second: th_l_4
+  - first:
+      213: 21300278
+    second: th_l_5
+  - first:
+      213: 21300280
+    second: th_l_6
+  - first:
+      213: 21300282
+    second: th_l_7
+  - first:
+      213: 21300284
+    second: th_t_0
+  - first:
+      213: 21300286
+    second: th_t_1
+  - first:
+      213: 21300288
+    second: th_t_2
+  - first:
+      213: 21300290
+    second: th_t_3
+  - first:
+      213: 21300292
+    second: th_t_4
+  - first:
+      213: 21300294
+    second: th_t_5
+  - first:
+      213: 21300296
+    second: th_t_6
+  - first:
+      213: 21300298
+    second: th_t_7
+  - first:
+      213: 21300300
+    second: sc_r_0
+  - first:
+      213: 21300302
+    second: sc_r_1
+  - first:
+      213: 21300304
+    second: sc_r_2
+  - first:
+      213: 21300306
+    second: sc_r_3
+  - first:
+      213: 21300308
+    second: sc_r_4
+  - first:
+      213: 21300310
+    second: sc_r_5
+  - first:
+      213: 21300312
+    second: sc_r_6
+  - first:
+      213: 21300314
+    second: sc_d_0
+  - first:
+      213: 21300316
+    second: sc_d_1
+  - first:
+      213: 21300318
+    second: sc_d_2
+  - first:
+      213: 21300320
+    second: sc_d_3
+  - first:
+      213: 21300322
+    second: sc_d_4
+  - first:
+      213: 21300324
+    second: sc_d_5
+  - first:
+      213: 21300326
+    second: sc_d_6
+  - first:
+      213: 21300328
+    second: sc_l_0
+  - first:
+      213: 21300330
+    second: sc_l_1
+  - first:
+      213: 21300332
+    second: sc_l_2
+  - first:
+      213: 21300334
+    second: sc_l_3
+  - first:
+      213: 21300336
+    second: sc_l_4
+  - first:
+      213: 21300338
+    second: sc_l_5
+  - first:
+      213: 21300340
+    second: sc_l_6
+  - first:
+      213: 21300342
+    second: sc_t_0
+  - first:
+      213: 21300344
+    second: sc_t_1
+  - first:
+      213: 21300346
+    second: sc_t_2
+  - first:
+      213: 21300348
+    second: sc_t_3
+  - first:
+      213: 21300350
+    second: sc_t_4
+  - first:
+      213: 21300352
+    second: sc_t_5
+  - first:
+      213: 21300354
+    second: sc_t_6
+  - first:
+      213: 21300356
+    second: torso_plate_chest_male_hu_0
+  - first:
+      213: 21300358
+    second: torso_plate_chest_male_hu_1
+  - first:
+      213: 21300360
+    second: torso_plate_chest_male_hu_2
+  - first:
+      213: 21300362
+    second: torso_plate_chest_male_hu_3
+  - first:
+      213: 21300364
+    second: torso_plate_chest_male_hu_4
+  - first:
+      213: 21300366
+    second: torso_plate_chest_male_hu_5
+  - first:
+      213: 21300368
+    second: torso_plate_chest_male_sh_r_0
+  - first:
+      213: 21300370
+    second: torso_plate_chest_male_sh_r_1
+  - first:
+      213: 21300372
+    second: torso_plate_chest_male_sh_r_2
+  - first:
+      213: 21300374
+    second: torso_plate_chest_male_sh_r_3
+  - first:
+      213: 21300376
+    second: torso_plate_chest_male_sh_r_4
+  - first:
+      213: 21300378
+    second: torso_plate_chest_male_sh_r_5
+  - first:
+      213: 21300380
+    second: torso_plate_chest_male_sh_r_6
+  - first:
+      213: 21300382
+    second: torso_plate_chest_male_sh_r_7
+  - first:
+      213: 21300384
+    second: torso_plate_chest_male_sh_r_8
+  - first:
+      213: 21300386
+    second: torso_plate_chest_male_sh_r_9
+  - first:
+      213: 21300388
+    second: torso_plate_chest_male_sh_r_10
+  - first:
+      213: 21300390
+    second: torso_plate_chest_male_sh_r_11
+  - first:
+      213: 21300392
+    second: torso_plate_chest_male_sh_r_12
+  - first:
+      213: 21300394
+    second: torso_plate_chest_male_sh_d_0
+  - first:
+      213: 21300396
+    second: torso_plate_chest_male_sh_d_1
+  - first:
+      213: 21300398
+    second: torso_plate_chest_male_sh_d_2
+  - first:
+      213: 21300400
+    second: torso_plate_chest_male_sh_d_3
+  - first:
+      213: 21300402
+    second: torso_plate_chest_male_sh_d_4
+  - first:
+      213: 21300404
+    second: torso_plate_chest_male_sh_d_5
+  - first:
+      213: 21300406
+    second: torso_plate_chest_male_sh_d_6
+  - first:
+      213: 21300408
+    second: torso_plate_chest_male_sh_d_7
+  - first:
+      213: 21300410
+    second: torso_plate_chest_male_sh_d_8
+  - first:
+      213: 21300412
+    second: torso_plate_chest_male_sh_d_9
+  - first:
+      213: 21300414
+    second: torso_plate_chest_male_sh_d_10
+  - first:
+      213: 21300416
+    second: torso_plate_chest_male_sh_d_11
+  - first:
+      213: 21300418
+    second: torso_plate_chest_male_sh_d_12
+  - first:
+      213: 21300420
+    second: torso_plate_chest_male_sh_l_0
+  - first:
+      213: 21300422
+    second: torso_plate_chest_male_sh_l_1
+  - first:
+      213: 21300424
+    second: torso_plate_chest_male_sh_l_2
+  - first:
+      213: 21300426
+    second: torso_plate_chest_male_sh_l_3
+  - first:
+      213: 21300428
+    second: torso_plate_chest_male_sh_l_4
+  - first:
+      213: 21300430
+    second: torso_plate_chest_male_sh_l_5
+  - first:
+      213: 21300432
+    second: torso_plate_chest_male_sh_l_6
+  - first:
+      213: 21300434
+    second: torso_plate_chest_male_sh_l_7
+  - first:
+      213: 21300436
+    second: torso_plate_chest_male_sh_l_8
+  - first:
+      213: 21300438
+    second: torso_plate_chest_male_sh_l_9
+  - first:
+      213: 21300440
+    second: torso_plate_chest_male_sh_l_10
+  - first:
+      213: 21300442
+    second: torso_plate_chest_male_sh_l_11
+  - first:
+      213: 21300444
+    second: torso_plate_chest_male_sh_l_12
+  - first:
+      213: 21300446
+    second: torso_plate_chest_male_sh_t_0
+  - first:
+      213: 21300448
+    second: torso_plate_chest_male_sh_t_1
+  - first:
+      213: 21300450
+    second: torso_plate_chest_male_sh_t_2
+  - first:
+      213: 21300452
+    second: torso_plate_chest_male_sh_t_3
+  - first:
+      213: 21300454
+    second: torso_plate_chest_male_sh_t_4
+  - first:
+      213: 21300456
+    second: torso_plate_chest_male_sh_t_5
+  - first:
+      213: 21300458
+    second: torso_plate_chest_male_sh_t_6
+  - first:
+      213: 21300460
+    second: torso_plate_chest_male_sh_t_7
+  - first:
+      213: 21300462
+    second: torso_plate_chest_male_sh_t_8
+  - first:
+      213: 21300464
+    second: torso_plate_chest_male_sh_t_9
+  - first:
+      213: 21300466
+    second: torso_plate_chest_male_sh_t_10
+  - first:
+      213: 21300468
+    second: torso_plate_chest_male_sh_t_11
+  - first:
+      213: 21300470
+    second: torso_plate_chest_male_sh_t_12
+  - first:
+      213: 21300472
+    second: torso_plate_chest_male_sl_r_0
+  - first:
+      213: 21300474
+    second: torso_plate_chest_male_sl_r_1
+  - first:
+      213: 21300476
+    second: torso_plate_chest_male_sl_r_2
+  - first:
+      213: 21300478
+    second: torso_plate_chest_male_sl_r_3
+  - first:
+      213: 21300480
+    second: torso_plate_chest_male_sl_r_4
+  - first:
+      213: 21300482
+    second: torso_plate_chest_male_sl_r_5
+  - first:
+      213: 21300484
+    second: torso_plate_chest_male_sl_d_0
+  - first:
+      213: 21300486
+    second: torso_plate_chest_male_sl_d_1
+  - first:
+      213: 21300488
+    second: torso_plate_chest_male_sl_d_2
+  - first:
+      213: 21300490
+    second: torso_plate_chest_male_sl_d_3
+  - first:
+      213: 21300492
+    second: torso_plate_chest_male_sl_d_4
+  - first:
+      213: 21300494
+    second: torso_plate_chest_male_sl_d_5
+  - first:
+      213: 21300496
+    second: torso_plate_chest_male_sl_l_0
+  - first:
+      213: 21300498
+    second: torso_plate_chest_male_sl_l_1
+  - first:
+      213: 21300500
+    second: torso_plate_chest_male_sl_l_2
+  - first:
+      213: 21300502
+    second: torso_plate_chest_male_sl_l_3
+  - first:
+      213: 21300504
+    second: torso_plate_chest_male_sl_l_4
+  - first:
+      213: 21300506
+    second: torso_plate_chest_male_sl_l_5
+  - first:
+      213: 21300508
+    second: torso_plate_chest_male_sl_t_0
+  - first:
+      213: 21300510
+    second: torso_plate_chest_male_sl_t_1
+  - first:
+      213: 21300512
+    second: torso_plate_chest_male_sl_t_2
+  - first:
+      213: 21300514
+    second: torso_plate_chest_male_sl_t_3
+  - first:
+      213: 21300516
+    second: torso_plate_chest_male_sl_t_4
+  - first:
+      213: 21300518
+    second: torso_plate_chest_male_sl_t_5
+  - first:
+      213: 21300520
+    second: torso_plate_chest_male_wc_r_0
+  - first:
+      213: 21300522
+    second: torso_plate_chest_male_wc_r_1
+  - first:
+      213: 21300524
+    second: torso_plate_chest_male_wc_r_2
+  - first:
+      213: 21300526
+    second: torso_plate_chest_male_wc_r_3
+  - first:
+      213: 21300528
+    second: torso_plate_chest_male_wc_r_4
+  - first:
+      213: 21300530
+    second: torso_plate_chest_male_wc_r_5
+  - first:
+      213: 21300532
+    second: torso_plate_chest_male_wc_r_6
+  - first:
+      213: 21300534
+    second: torso_plate_chest_male_wc_r_7
+  - first:
+      213: 21300536
+    second: torso_plate_chest_male_wc_r_8
+  - first:
+      213: 21300538
+    second: torso_plate_chest_male_wc_d_0
+  - first:
+      213: 21300540
+    second: torso_plate_chest_male_wc_d_1
+  - first:
+      213: 21300542
+    second: torso_plate_chest_male_wc_d_2
+  - first:
+      213: 21300544
+    second: torso_plate_chest_male_wc_d_3
+  - first:
+      213: 21300546
+    second: torso_plate_chest_male_wc_d_4
+  - first:
+      213: 21300548
+    second: torso_plate_chest_male_wc_d_5
+  - first:
+      213: 21300550
+    second: torso_plate_chest_male_wc_d_6
+  - first:
+      213: 21300552
+    second: torso_plate_chest_male_wc_d_7
+  - first:
+      213: 21300554
+    second: torso_plate_chest_male_wc_d_8
+  - first:
+      213: 21300556
+    second: torso_plate_chest_male_wc_l_0
+  - first:
+      213: 21300558
+    second: torso_plate_chest_male_wc_l_1
+  - first:
+      213: 21300560
+    second: torso_plate_chest_male_wc_l_2
+  - first:
+      213: 21300562
+    second: torso_plate_chest_male_wc_l_3
+  - first:
+      213: 21300564
+    second: torso_plate_chest_male_wc_l_4
+  - first:
+      213: 21300566
+    second: torso_plate_chest_male_wc_l_5
+  - first:
+      213: 21300568
+    second: torso_plate_chest_male_wc_l_6
+  - first:
+      213: 21300570
+    second: torso_plate_chest_male_wc_l_7
+  - first:
+      213: 21300572
+    second: torso_plate_chest_male_wc_l_8
+  - first:
+      213: 21300574
+    second: torso_plate_chest_male_wc_t_0
+  - first:
+      213: 21300576
+    second: torso_plate_chest_male_wc_t_1
+  - first:
+      213: 21300578
+    second: torso_plate_chest_male_wc_t_2
+  - first:
+      213: 21300580
+    second: torso_plate_chest_male_wc_t_3
+  - first:
+      213: 21300582
+    second: torso_plate_chest_male_wc_t_4
+  - first:
+      213: 21300584
+    second: torso_plate_chest_male_wc_t_5
+  - first:
+      213: 21300586
+    second: torso_plate_chest_male_wc_t_6
+  - first:
+      213: 21300588
+    second: torso_plate_chest_male_wc_t_7
+  - first:
+      213: 21300590
+    second: torso_plate_chest_male_wc_t_8
+  - first:
+      213: 21300592
+    second: torso_plate_chest_male_th_r_0
+  - first:
+      213: 21300594
+    second: torso_plate_chest_male_th_r_1
+  - first:
+      213: 21300596
+    second: torso_plate_chest_male_th_r_2
+  - first:
+      213: 21300598
+    second: torso_plate_chest_male_th_r_3
+  - first:
+      213: 21300600
+    second: torso_plate_chest_male_th_r_4
+  - first:
+      213: 21300602
+    second: torso_plate_chest_male_th_r_5
+  - first:
+      213: 21300604
+    second: torso_plate_chest_male_th_r_6
+  - first:
+      213: 21300606
+    second: torso_plate_chest_male_th_r_7
+  - first:
+      213: 21300608
+    second: torso_plate_chest_male_th_d_0
+  - first:
+      213: 21300610
+    second: torso_plate_chest_male_th_d_1
+  - first:
+      213: 21300612
+    second: torso_plate_chest_male_th_d_2
+  - first:
+      213: 21300614
+    second: torso_plate_chest_male_th_d_3
+  - first:
+      213: 21300616
+    second: torso_plate_chest_male_th_d_4
+  - first:
+      213: 21300618
+    second: torso_plate_chest_male_th_d_5
+  - first:
+      213: 21300620
+    second: torso_plate_chest_male_th_d_6
+  - first:
+      213: 21300622
+    second: torso_plate_chest_male_th_d_7
+  - first:
+      213: 21300624
+    second: torso_plate_chest_male_th_l_0
+  - first:
+      213: 21300626
+    second: torso_plate_chest_male_th_l_1
+  - first:
+      213: 21300628
+    second: torso_plate_chest_male_th_l_2
+  - first:
+      213: 21300630
+    second: torso_plate_chest_male_th_l_3
+  - first:
+      213: 21300632
+    second: torso_plate_chest_male_th_l_4
+  - first:
+      213: 21300634
+    second: torso_plate_chest_male_th_l_5
+  - first:
+      213: 21300636
+    second: torso_plate_chest_male_th_l_6
+  - first:
+      213: 21300638
+    second: torso_plate_chest_male_th_l_7
+  - first:
+      213: 21300640
+    second: torso_plate_chest_male_th_t_0
+  - first:
+      213: 21300642
+    second: torso_plate_chest_male_th_t_1
+  - first:
+      213: 21300644
+    second: torso_plate_chest_male_th_t_2
+  - first:
+      213: 21300646
+    second: torso_plate_chest_male_th_t_3
+  - first:
+      213: 21300648
+    second: torso_plate_chest_male_th_t_4
+  - first:
+      213: 21300650
+    second: torso_plate_chest_male_th_t_5
+  - first:
+      213: 21300652
+    second: torso_plate_chest_male_th_t_6
+  - first:
+      213: 21300654
+    second: torso_plate_chest_male_th_t_7
+  - first:
+      213: 21300656
+    second: torso_plate_chest_male_sc_r_0
+  - first:
+      213: 21300658
+    second: torso_plate_chest_male_sc_r_1
+  - first:
+      213: 21300660
+    second: torso_plate_chest_male_sc_r_2
+  - first:
+      213: 21300662
+    second: torso_plate_chest_male_sc_r_3
+  - first:
+      213: 21300664
+    second: torso_plate_chest_male_sc_r_4
+  - first:
+      213: 21300666
+    second: torso_plate_chest_male_sc_r_5
+  - first:
+      213: 21300668
+    second: torso_plate_chest_male_sc_r_6
+  - first:
+      213: 21300670
+    second: torso_plate_chest_male_sc_d_0
+  - first:
+      213: 21300672
+    second: torso_plate_chest_male_sc_d_1
+  - first:
+      213: 21300674
+    second: torso_plate_chest_male_sc_d_2
+  - first:
+      213: 21300676
+    second: torso_plate_chest_male_sc_d_3
+  - first:
+      213: 21300678
+    second: torso_plate_chest_male_sc_d_4
+  - first:
+      213: 21300680
+    second: torso_plate_chest_male_sc_d_5
+  - first:
+      213: 21300682
+    second: torso_plate_chest_male_sc_d_6
+  - first:
+      213: 21300684
+    second: torso_plate_chest_male_sc_l_0
+  - first:
+      213: 21300686
+    second: torso_plate_chest_male_sc_l_1
+  - first:
+      213: 21300688
+    second: torso_plate_chest_male_sc_l_2
+  - first:
+      213: 21300690
+    second: torso_plate_chest_male_sc_l_3
+  - first:
+      213: 21300692
+    second: torso_plate_chest_male_sc_l_4
+  - first:
+      213: 21300694
+    second: torso_plate_chest_male_sc_l_5
+  - first:
+      213: 21300696
+    second: torso_plate_chest_male_sc_l_6
+  - first:
+      213: 21300698
+    second: torso_plate_chest_male_sc_t_0
+  - first:
+      213: 21300700
+    second: torso_plate_chest_male_sc_t_1
+  - first:
+      213: 21300702
+    second: torso_plate_chest_male_sc_t_2
+  - first:
+      213: 21300704
+    second: torso_plate_chest_male_sc_t_3
+  - first:
+      213: 21300706
+    second: torso_plate_chest_male_sc_t_4
+  - first:
+      213: 21300708
+    second: torso_plate_chest_male_sc_t_5
+  - first:
+      213: 21300710
+    second: torso_plate_chest_male_sc_t_6
+  - first:
+      213: 21300712
+    second: torso_plate_chest_hu_0
+  - first:
+      213: 21300714
+    second: torso_plate_chest_hu_1
+  - first:
+      213: 21300716
+    second: torso_plate_chest_hu_2
+  - first:
+      213: 21300718
+    second: torso_plate_chest_hu_3
+  - first:
+      213: 21300720
+    second: torso_plate_chest_hu_4
+  - first:
+      213: 21300722
+    second: torso_plate_chest_hu_5
+  - first:
+      213: 21300724
+    second: torso_plate_chest_sh_r_0
+  - first:
+      213: 21300726
+    second: torso_plate_chest_sh_r_1
+  - first:
+      213: 21300728
+    second: torso_plate_chest_sh_r_2
+  - first:
+      213: 21300730
+    second: torso_plate_chest_sh_r_3
+  - first:
+      213: 21300732
+    second: torso_plate_chest_sh_r_4
+  - first:
+      213: 21300734
+    second: torso_plate_chest_sh_r_5
+  - first:
+      213: 21300736
+    second: torso_plate_chest_sh_r_6
+  - first:
+      213: 21300738
+    second: torso_plate_chest_sh_r_7
+  - first:
+      213: 21300740
+    second: torso_plate_chest_sh_r_8
+  - first:
+      213: 21300742
+    second: torso_plate_chest_sh_r_9
+  - first:
+      213: 21300744
+    second: torso_plate_chest_sh_r_10
+  - first:
+      213: 21300746
+    second: torso_plate_chest_sh_r_11
+  - first:
+      213: 21300748
+    second: torso_plate_chest_sh_r_12
+  - first:
+      213: 21300750
+    second: torso_plate_chest_sh_d_0
+  - first:
+      213: 21300752
+    second: torso_plate_chest_sh_d_1
+  - first:
+      213: 21300754
+    second: torso_plate_chest_sh_d_2
+  - first:
+      213: 21300756
+    second: torso_plate_chest_sh_d_3
+  - first:
+      213: 21300758
+    second: torso_plate_chest_sh_d_4
+  - first:
+      213: 21300760
+    second: torso_plate_chest_sh_d_5
+  - first:
+      213: 21300762
+    second: torso_plate_chest_sh_d_6
+  - first:
+      213: 21300764
+    second: torso_plate_chest_sh_d_7
+  - first:
+      213: 21300766
+    second: torso_plate_chest_sh_d_8
+  - first:
+      213: 21300768
+    second: torso_plate_chest_sh_d_9
+  - first:
+      213: 21300770
+    second: torso_plate_chest_sh_d_10
+  - first:
+      213: 21300772
+    second: torso_plate_chest_sh_d_11
+  - first:
+      213: 21300774
+    second: torso_plate_chest_sh_d_12
+  - first:
+      213: 21300776
+    second: torso_plate_chest_sh_l_0
+  - first:
+      213: 21300778
+    second: torso_plate_chest_sh_l_1
+  - first:
+      213: 21300780
+    second: torso_plate_chest_sh_l_2
+  - first:
+      213: 21300782
+    second: torso_plate_chest_sh_l_3
+  - first:
+      213: 21300784
+    second: torso_plate_chest_sh_l_4
+  - first:
+      213: 21300786
+    second: torso_plate_chest_sh_l_5
+  - first:
+      213: 21300788
+    second: torso_plate_chest_sh_l_6
+  - first:
+      213: 21300790
+    second: torso_plate_chest_sh_l_7
+  - first:
+      213: 21300792
+    second: torso_plate_chest_sh_l_8
+  - first:
+      213: 21300794
+    second: torso_plate_chest_sh_l_9
+  - first:
+      213: 21300796
+    second: torso_plate_chest_sh_l_10
+  - first:
+      213: 21300798
+    second: torso_plate_chest_sh_l_11
+  - first:
+      213: 21300800
+    second: torso_plate_chest_sh_l_12
+  - first:
+      213: 21300802
+    second: torso_plate_chest_sh_t_0
+  - first:
+      213: 21300804
+    second: torso_plate_chest_sh_t_1
+  - first:
+      213: 21300806
+    second: torso_plate_chest_sh_t_2
+  - first:
+      213: 21300808
+    second: torso_plate_chest_sh_t_3
+  - first:
+      213: 21300810
+    second: torso_plate_chest_sh_t_4
+  - first:
+      213: 21300812
+    second: torso_plate_chest_sh_t_5
+  - first:
+      213: 21300814
+    second: torso_plate_chest_sh_t_6
+  - first:
+      213: 21300816
+    second: torso_plate_chest_sh_t_7
+  - first:
+      213: 21300818
+    second: torso_plate_chest_sh_t_8
+  - first:
+      213: 21300820
+    second: torso_plate_chest_sh_t_9
+  - first:
+      213: 21300822
+    second: torso_plate_chest_sh_t_10
+  - first:
+      213: 21300824
+    second: torso_plate_chest_sh_t_11
+  - first:
+      213: 21300826
+    second: torso_plate_chest_sh_t_12
+  - first:
+      213: 21300828
+    second: torso_plate_chest_sl_r_0
+  - first:
+      213: 21300830
+    second: torso_plate_chest_sl_r_1
+  - first:
+      213: 21300832
+    second: torso_plate_chest_sl_r_2
+  - first:
+      213: 21300834
+    second: torso_plate_chest_sl_r_3
+  - first:
+      213: 21300836
+    second: torso_plate_chest_sl_r_4
+  - first:
+      213: 21300838
+    second: torso_plate_chest_sl_r_5
+  - first:
+      213: 21300840
+    second: torso_plate_chest_sl_d_0
+  - first:
+      213: 21300842
+    second: torso_plate_chest_sl_d_1
+  - first:
+      213: 21300844
+    second: torso_plate_chest_sl_d_2
+  - first:
+      213: 21300846
+    second: torso_plate_chest_sl_d_3
+  - first:
+      213: 21300848
+    second: torso_plate_chest_sl_d_4
+  - first:
+      213: 21300850
+    second: torso_plate_chest_sl_d_5
+  - first:
+      213: 21300852
+    second: torso_plate_chest_sl_l_0
+  - first:
+      213: 21300854
+    second: torso_plate_chest_sl_l_1
+  - first:
+      213: 21300856
+    second: torso_plate_chest_sl_l_2
+  - first:
+      213: 21300858
+    second: torso_plate_chest_sl_l_3
+  - first:
+      213: 21300860
+    second: torso_plate_chest_sl_l_4
+  - first:
+      213: 21300862
+    second: torso_plate_chest_sl_l_5
+  - first:
+      213: 21300864
+    second: torso_plate_chest_sl_t_0
+  - first:
+      213: 21300866
+    second: torso_plate_chest_sl_t_1
+  - first:
+      213: 21300868
+    second: torso_plate_chest_sl_t_2
+  - first:
+      213: 21300870
+    second: torso_plate_chest_sl_t_3
+  - first:
+      213: 21300872
+    second: torso_plate_chest_sl_t_4
+  - first:
+      213: 21300874
+    second: torso_plate_chest_sl_t_5
+  - first:
+      213: 21300876
+    second: torso_plate_chest_wc_r_0
+  - first:
+      213: 21300878
+    second: torso_plate_chest_wc_r_1
+  - first:
+      213: 21300880
+    second: torso_plate_chest_wc_r_2
+  - first:
+      213: 21300882
+    second: torso_plate_chest_wc_r_3
+  - first:
+      213: 21300884
+    second: torso_plate_chest_wc_r_4
+  - first:
+      213: 21300886
+    second: torso_plate_chest_wc_r_5
+  - first:
+      213: 21300888
+    second: torso_plate_chest_wc_r_6
+  - first:
+      213: 21300890
+    second: torso_plate_chest_wc_r_7
+  - first:
+      213: 21300892
+    second: torso_plate_chest_wc_r_8
+  - first:
+      213: 21300894
+    second: torso_plate_chest_wc_d_0
+  - first:
+      213: 21300896
+    second: torso_plate_chest_wc_d_1
+  - first:
+      213: 21300898
+    second: torso_plate_chest_wc_d_2
+  - first:
+      213: 21300900
+    second: torso_plate_chest_wc_d_3
+  - first:
+      213: 21300902
+    second: torso_plate_chest_wc_d_4
+  - first:
+      213: 21300904
+    second: torso_plate_chest_wc_d_5
+  - first:
+      213: 21300906
+    second: torso_plate_chest_wc_d_6
+  - first:
+      213: 21300908
+    second: torso_plate_chest_wc_d_7
+  - first:
+      213: 21300910
+    second: torso_plate_chest_wc_d_8
+  - first:
+      213: 21300912
+    second: torso_plate_chest_wc_l_0
+  - first:
+      213: 21300914
+    second: torso_plate_chest_wc_l_1
+  - first:
+      213: 21300916
+    second: torso_plate_chest_wc_l_2
+  - first:
+      213: 21300918
+    second: torso_plate_chest_wc_l_3
+  - first:
+      213: 21300920
+    second: torso_plate_chest_wc_l_4
+  - first:
+      213: 21300922
+    second: torso_plate_chest_wc_l_5
+  - first:
+      213: 21300924
+    second: torso_plate_chest_wc_l_6
+  - first:
+      213: 21300926
+    second: torso_plate_chest_wc_l_7
+  - first:
+      213: 21300928
+    second: torso_plate_chest_wc_l_8
+  - first:
+      213: 21300930
+    second: torso_plate_chest_wc_t_0
+  - first:
+      213: 21300932
+    second: torso_plate_chest_wc_t_1
+  - first:
+      213: 21300934
+    second: torso_plate_chest_wc_t_2
+  - first:
+      213: 21300936
+    second: torso_plate_chest_wc_t_3
+  - first:
+      213: 21300938
+    second: torso_plate_chest_wc_t_4
+  - first:
+      213: 21300940
+    second: torso_plate_chest_wc_t_5
+  - first:
+      213: 21300942
+    second: torso_plate_chest_wc_t_6
+  - first:
+      213: 21300944
+    second: torso_plate_chest_wc_t_7
+  - first:
+      213: 21300946
+    second: torso_plate_chest_wc_t_8
+  - first:
+      213: 21300948
+    second: torso_plate_chest_th_r_0
+  - first:
+      213: 21300950
+    second: torso_plate_chest_th_r_1
+  - first:
+      213: 21300952
+    second: torso_plate_chest_th_r_2
+  - first:
+      213: 21300954
+    second: torso_plate_chest_th_r_3
+  - first:
+      213: 21300956
+    second: torso_plate_chest_th_r_4
+  - first:
+      213: 21300958
+    second: torso_plate_chest_th_r_5
+  - first:
+      213: 21300960
+    second: torso_plate_chest_th_r_6
+  - first:
+      213: 21300962
+    second: torso_plate_chest_th_r_7
+  - first:
+      213: 21300964
+    second: torso_plate_chest_th_d_0
+  - first:
+      213: 21300966
+    second: torso_plate_chest_th_d_1
+  - first:
+      213: 21300968
+    second: torso_plate_chest_th_d_2
+  - first:
+      213: 21300970
+    second: torso_plate_chest_th_d_3
+  - first:
+      213: 21300972
+    second: torso_plate_chest_th_d_4
+  - first:
+      213: 21300974
+    second: torso_plate_chest_th_d_5
+  - first:
+      213: 21300976
+    second: torso_plate_chest_th_d_6
+  - first:
+      213: 21300978
+    second: torso_plate_chest_th_d_7
+  - first:
+      213: 21300980
+    second: torso_plate_chest_th_l_0
+  - first:
+      213: 21300982
+    second: torso_plate_chest_th_l_1
+  - first:
+      213: 21300984
+    second: torso_plate_chest_th_l_2
+  - first:
+      213: 21300986
+    second: torso_plate_chest_th_l_3
+  - first:
+      213: 21300988
+    second: torso_plate_chest_th_l_4
+  - first:
+      213: 21300990
+    second: torso_plate_chest_th_l_5
+  - first:
+      213: 21300992
+    second: torso_plate_chest_th_l_6
+  - first:
+      213: 21300994
+    second: torso_plate_chest_th_l_7
+  - first:
+      213: 21300996
+    second: torso_plate_chest_th_t_0
+  - first:
+      213: 21300998
+    second: torso_plate_chest_th_t_1
+  - first:
+      213: 21301000
+    second: torso_plate_chest_th_t_2
+  - first:
+      213: 21301002
+    second: torso_plate_chest_th_t_3
+  - first:
+      213: 21301004
+    second: torso_plate_chest_th_t_4
+  - first:
+      213: 21301006
+    second: torso_plate_chest_th_t_5
+  - first:
+      213: 21301008
+    second: torso_plate_chest_th_t_6
+  - first:
+      213: 21301010
+    second: torso_plate_chest_th_t_7
+  - first:
+      213: 21301012
+    second: torso_plate_chest_sc_r_0
+  - first:
+      213: 21301014
+    second: torso_plate_chest_sc_r_1
+  - first:
+      213: 21301016
+    second: torso_plate_chest_sc_r_2
+  - first:
+      213: 21301018
+    second: torso_plate_chest_sc_r_3
+  - first:
+      213: 21301020
+    second: torso_plate_chest_sc_r_4
+  - first:
+      213: 21301022
+    second: torso_plate_chest_sc_r_5
+  - first:
+      213: 21301024
+    second: torso_plate_chest_sc_r_6
+  - first:
+      213: 21301026
+    second: torso_plate_chest_sc_d_0
+  - first:
+      213: 21301028
+    second: torso_plate_chest_sc_d_1
+  - first:
+      213: 21301030
+    second: torso_plate_chest_sc_d_2
+  - first:
+      213: 21301032
+    second: torso_plate_chest_sc_d_3
+  - first:
+      213: 21301034
+    second: torso_plate_chest_sc_d_4
+  - first:
+      213: 21301036
+    second: torso_plate_chest_sc_d_5
+  - first:
+      213: 21301038
+    second: torso_plate_chest_sc_d_6
+  - first:
+      213: 21301040
+    second: torso_plate_chest_sc_l_0
+  - first:
+      213: 21301042
+    second: torso_plate_chest_sc_l_1
+  - first:
+      213: 21301044
+    second: torso_plate_chest_sc_l_2
+  - first:
+      213: 21301046
+    second: torso_plate_chest_sc_l_3
+  - first:
+      213: 21301048
+    second: torso_plate_chest_sc_l_4
+  - first:
+      213: 21301050
+    second: torso_plate_chest_sc_l_5
+  - first:
+      213: 21301052
+    second: torso_plate_chest_sc_l_6
+  - first:
+      213: 21301054
+    second: torso_plate_chest_sc_t_0
+  - first:
+      213: 21301056
+    second: torso_plate_chest_sc_t_1
+  - first:
+      213: 21301058
+    second: torso_plate_chest_sc_t_2
+  - first:
+      213: 21301060
+    second: torso_plate_chest_sc_t_3
+  - first:
+      213: 21301062
+    second: torso_plate_chest_sc_t_4
+  - first:
+      213: 21301064
+    second: torso_plate_chest_sc_t_5
+  - first:
+      213: 21301066
+    second: torso_plate_chest_sc_t_6
+  - first:
+      213: 21301068
+    second: torso_plate_platemail_hu_0
+  - first:
+      213: 21301070
+    second: torso_plate_platemail_hu_1
+  - first:
+      213: 21301072
+    second: torso_plate_platemail_hu_2
+  - first:
+      213: 21301074
+    second: torso_plate_platemail_hu_3
+  - first:
+      213: 21301076
+    second: torso_plate_platemail_hu_4
+  - first:
+      213: 21301078
+    second: torso_plate_platemail_hu_5
+  - first:
+      213: 21301080
+    second: torso_plate_platemail_sh_r_0
+  - first:
+      213: 21301082
+    second: torso_plate_platemail_sh_r_1
+  - first:
+      213: 21301084
+    second: torso_plate_platemail_sh_r_2
+  - first:
+      213: 21301086
+    second: torso_plate_platemail_sh_r_3
+  - first:
+      213: 21301088
+    second: torso_plate_platemail_sh_r_4
+  - first:
+      213: 21301090
+    second: torso_plate_platemail_sh_r_5
+  - first:
+      213: 21301092
+    second: torso_plate_platemail_sh_r_6
+  - first:
+      213: 21301094
+    second: torso_plate_platemail_sh_r_7
+  - first:
+      213: 21301096
+    second: torso_plate_platemail_sh_r_8
+  - first:
+      213: 21301098
+    second: torso_plate_platemail_sh_r_9
+  - first:
+      213: 21301100
+    second: torso_plate_platemail_sh_r_10
+  - first:
+      213: 21301102
+    second: torso_plate_platemail_sh_r_11
+  - first:
+      213: 21301104
+    second: torso_plate_platemail_sh_r_12
+  - first:
+      213: 21301106
+    second: torso_plate_platemail_sh_d_0
+  - first:
+      213: 21301108
+    second: torso_plate_platemail_sh_d_1
+  - first:
+      213: 21301110
+    second: torso_plate_platemail_sh_d_2
+  - first:
+      213: 21301112
+    second: torso_plate_platemail_sh_d_3
+  - first:
+      213: 21301114
+    second: torso_plate_platemail_sh_d_4
+  - first:
+      213: 21301116
+    second: torso_plate_platemail_sh_d_5
+  - first:
+      213: 21301118
+    second: torso_plate_platemail_sh_d_6
+  - first:
+      213: 21301120
+    second: torso_plate_platemail_sh_d_7
+  - first:
+      213: 21301122
+    second: torso_plate_platemail_sh_d_8
+  - first:
+      213: 21301124
+    second: torso_plate_platemail_sh_d_9
+  - first:
+      213: 21301126
+    second: torso_plate_platemail_sh_d_10
+  - first:
+      213: 21301128
+    second: torso_plate_platemail_sh_d_11
+  - first:
+      213: 21301130
+    second: torso_plate_platemail_sh_d_12
+  - first:
+      213: 21301132
+    second: torso_plate_platemail_sh_l_0
+  - first:
+      213: 21301134
+    second: torso_plate_platemail_sh_l_1
+  - first:
+      213: 21301136
+    second: torso_plate_platemail_sh_l_2
+  - first:
+      213: 21301138
+    second: torso_plate_platemail_sh_l_3
+  - first:
+      213: 21301140
+    second: torso_plate_platemail_sh_l_4
+  - first:
+      213: 21301142
+    second: torso_plate_platemail_sh_l_5
+  - first:
+      213: 21301144
+    second: torso_plate_platemail_sh_l_6
+  - first:
+      213: 21301146
+    second: torso_plate_platemail_sh_l_7
+  - first:
+      213: 21301148
+    second: torso_plate_platemail_sh_l_8
+  - first:
+      213: 21301150
+    second: torso_plate_platemail_sh_l_9
+  - first:
+      213: 21301152
+    second: torso_plate_platemail_sh_l_10
+  - first:
+      213: 21301154
+    second: torso_plate_platemail_sh_l_11
+  - first:
+      213: 21301156
+    second: torso_plate_platemail_sh_l_12
+  - first:
+      213: 21301158
+    second: torso_plate_platemail_sh_t_0
+  - first:
+      213: 21301160
+    second: torso_plate_platemail_sh_t_1
+  - first:
+      213: 21301162
+    second: torso_plate_platemail_sh_t_2
+  - first:
+      213: 21301164
+    second: torso_plate_platemail_sh_t_3
+  - first:
+      213: 21301166
+    second: torso_plate_platemail_sh_t_4
+  - first:
+      213: 21301168
+    second: torso_plate_platemail_sh_t_5
+  - first:
+      213: 21301170
+    second: torso_plate_platemail_sh_t_6
+  - first:
+      213: 21301172
+    second: torso_plate_platemail_sh_t_7
+  - first:
+      213: 21301174
+    second: torso_plate_platemail_sh_t_8
+  - first:
+      213: 21301176
+    second: torso_plate_platemail_sh_t_9
+  - first:
+      213: 21301178
+    second: torso_plate_platemail_sh_t_10
+  - first:
+      213: 21301180
+    second: torso_plate_platemail_sh_t_11
+  - first:
+      213: 21301182
+    second: torso_plate_platemail_sh_t_12
+  - first:
+      213: 21301184
+    second: torso_plate_platemail_sl_r_0
+  - first:
+      213: 21301186
+    second: torso_plate_platemail_sl_r_1
+  - first:
+      213: 21301188
+    second: torso_plate_platemail_sl_r_2
+  - first:
+      213: 21301190
+    second: torso_plate_platemail_sl_r_3
+  - first:
+      213: 21301192
+    second: torso_plate_platemail_sl_r_4
+  - first:
+      213: 21301194
+    second: torso_plate_platemail_sl_r_5
+  - first:
+      213: 21301196
+    second: torso_plate_platemail_sl_d_0
+  - first:
+      213: 21301198
+    second: torso_plate_platemail_sl_d_1
+  - first:
+      213: 21301200
+    second: torso_plate_platemail_sl_d_2
+  - first:
+      213: 21301202
+    second: torso_plate_platemail_sl_d_3
+  - first:
+      213: 21301204
+    second: torso_plate_platemail_sl_d_4
+  - first:
+      213: 21301206
+    second: torso_plate_platemail_sl_d_5
+  - first:
+      213: 21301208
+    second: torso_plate_platemail_sl_l_0
+  - first:
+      213: 21301210
+    second: torso_plate_platemail_sl_l_1
+  - first:
+      213: 21301212
+    second: torso_plate_platemail_sl_l_2
+  - first:
+      213: 21301214
+    second: torso_plate_platemail_sl_l_3
+  - first:
+      213: 21301216
+    second: torso_plate_platemail_sl_l_4
+  - first:
+      213: 21301218
+    second: torso_plate_platemail_sl_l_5
+  - first:
+      213: 21301220
+    second: torso_plate_platemail_sl_t_0
+  - first:
+      213: 21301222
+    second: torso_plate_platemail_sl_t_1
+  - first:
+      213: 21301224
+    second: torso_plate_platemail_sl_t_2
+  - first:
+      213: 21301226
+    second: torso_plate_platemail_sl_t_3
+  - first:
+      213: 21301228
+    second: torso_plate_platemail_sl_t_4
+  - first:
+      213: 21301230
+    second: torso_plate_platemail_sl_t_5
+  - first:
+      213: 21301232
+    second: torso_plate_platemail_wc_r_0
+  - first:
+      213: 21301234
+    second: torso_plate_platemail_wc_r_1
+  - first:
+      213: 21301236
+    second: torso_plate_platemail_wc_r_2
+  - first:
+      213: 21301238
+    second: torso_plate_platemail_wc_r_3
+  - first:
+      213: 21301240
+    second: torso_plate_platemail_wc_r_4
+  - first:
+      213: 21301242
+    second: torso_plate_platemail_wc_r_5
+  - first:
+      213: 21301244
+    second: torso_plate_platemail_wc_r_6
+  - first:
+      213: 21301246
+    second: torso_plate_platemail_wc_r_7
+  - first:
+      213: 21301248
+    second: torso_plate_platemail_wc_r_8
+  - first:
+      213: 21301250
+    second: torso_plate_platemail_wc_d_0
+  - first:
+      213: 21301252
+    second: torso_plate_platemail_wc_d_1
+  - first:
+      213: 21301254
+    second: torso_plate_platemail_wc_d_2
+  - first:
+      213: 21301256
+    second: torso_plate_platemail_wc_d_3
+  - first:
+      213: 21301258
+    second: torso_plate_platemail_wc_d_4
+  - first:
+      213: 21301260
+    second: torso_plate_platemail_wc_d_5
+  - first:
+      213: 21301262
+    second: torso_plate_platemail_wc_d_6
+  - first:
+      213: 21301264
+    second: torso_plate_platemail_wc_d_7
+  - first:
+      213: 21301266
+    second: torso_plate_platemail_wc_d_8
+  - first:
+      213: 21301268
+    second: torso_plate_platemail_wc_l_0
+  - first:
+      213: 21301270
+    second: torso_plate_platemail_wc_l_1
+  - first:
+      213: 21301272
+    second: torso_plate_platemail_wc_l_2
+  - first:
+      213: 21301274
+    second: torso_plate_platemail_wc_l_3
+  - first:
+      213: 21301276
+    second: torso_plate_platemail_wc_l_4
+  - first:
+      213: 21301278
+    second: torso_plate_platemail_wc_l_5
+  - first:
+      213: 21301280
+    second: torso_plate_platemail_wc_l_6
+  - first:
+      213: 21301282
+    second: torso_plate_platemail_wc_l_7
+  - first:
+      213: 21301284
+    second: torso_plate_platemail_wc_l_8
+  - first:
+      213: 21301286
+    second: torso_plate_platemail_wc_t_0
+  - first:
+      213: 21301288
+    second: torso_plate_platemail_wc_t_1
+  - first:
+      213: 21301290
+    second: torso_plate_platemail_wc_t_2
+  - first:
+      213: 21301292
+    second: torso_plate_platemail_wc_t_3
+  - first:
+      213: 21301294
+    second: torso_plate_platemail_wc_t_4
+  - first:
+      213: 21301296
+    second: torso_plate_platemail_wc_t_5
+  - first:
+      213: 21301298
+    second: torso_plate_platemail_wc_t_6
+  - first:
+      213: 21301300
+    second: torso_plate_platemail_wc_t_7
+  - first:
+      213: 21301302
+    second: torso_plate_platemail_wc_t_8
+  - first:
+      213: 21301304
+    second: torso_plate_platemail_th_r_0
+  - first:
+      213: 21301306
+    second: torso_plate_platemail_th_r_1
+  - first:
+      213: 21301308
+    second: torso_plate_platemail_th_r_2
+  - first:
+      213: 21301310
+    second: torso_plate_platemail_th_r_3
+  - first:
+      213: 21301312
+    second: torso_plate_platemail_th_r_4
+  - first:
+      213: 21301314
+    second: torso_plate_platemail_th_r_5
+  - first:
+      213: 21301316
+    second: torso_plate_platemail_th_r_6
+  - first:
+      213: 21301318
+    second: torso_plate_platemail_th_r_7
+  - first:
+      213: 21301320
+    second: torso_plate_platemail_th_d_0
+  - first:
+      213: 21301322
+    second: torso_plate_platemail_th_d_1
+  - first:
+      213: 21301324
+    second: torso_plate_platemail_th_d_2
+  - first:
+      213: 21301326
+    second: torso_plate_platemail_th_d_3
+  - first:
+      213: 21301328
+    second: torso_plate_platemail_th_d_4
+  - first:
+      213: 21301330
+    second: torso_plate_platemail_th_d_5
+  - first:
+      213: 21301332
+    second: torso_plate_platemail_th_d_6
+  - first:
+      213: 21301334
+    second: torso_plate_platemail_th_d_7
+  - first:
+      213: 21301336
+    second: torso_plate_platemail_th_l_0
+  - first:
+      213: 21301338
+    second: torso_plate_platemail_th_l_1
+  - first:
+      213: 21301340
+    second: torso_plate_platemail_th_l_2
+  - first:
+      213: 21301342
+    second: torso_plate_platemail_th_l_3
+  - first:
+      213: 21301344
+    second: torso_plate_platemail_th_l_4
+  - first:
+      213: 21301346
+    second: torso_plate_platemail_th_l_5
+  - first:
+      213: 21301348
+    second: torso_plate_platemail_th_l_6
+  - first:
+      213: 21301350
+    second: torso_plate_platemail_th_l_7
+  - first:
+      213: 21301352
+    second: torso_plate_platemail_th_t_0
+  - first:
+      213: 21301354
+    second: torso_plate_platemail_th_t_1
+  - first:
+      213: 21301356
+    second: torso_plate_platemail_th_t_2
+  - first:
+      213: 21301358
+    second: torso_plate_platemail_th_t_3
+  - first:
+      213: 21301360
+    second: torso_plate_platemail_th_t_4
+  - first:
+      213: 21301362
+    second: torso_plate_platemail_th_t_5
+  - first:
+      213: 21301364
+    second: torso_plate_platemail_th_t_6
+  - first:
+      213: 21301366
+    second: torso_plate_platemail_th_t_7
+  - first:
+      213: 21301368
+    second: torso_plate_platemail_sc_r_0
+  - first:
+      213: 21301370
+    second: torso_plate_platemail_sc_r_1
+  - first:
+      213: 21301372
+    second: torso_plate_platemail_sc_r_2
+  - first:
+      213: 21301374
+    second: torso_plate_platemail_sc_r_3
+  - first:
+      213: 21301376
+    second: torso_plate_platemail_sc_r_4
+  - first:
+      213: 21301378
+    second: torso_plate_platemail_sc_r_5
+  - first:
+      213: 21301380
+    second: torso_plate_platemail_sc_r_6
+  - first:
+      213: 21301382
+    second: torso_plate_platemail_sc_d_0
+  - first:
+      213: 21301384
+    second: torso_plate_platemail_sc_d_1
+  - first:
+      213: 21301386
+    second: torso_plate_platemail_sc_d_2
+  - first:
+      213: 21301388
+    second: torso_plate_platemail_sc_d_3
+  - first:
+      213: 21301390
+    second: torso_plate_platemail_sc_d_4
+  - first:
+      213: 21301392
+    second: torso_plate_platemail_sc_d_5
+  - first:
+      213: 21301394
+    second: torso_plate_platemail_sc_d_6
+  - first:
+      213: 21301396
+    second: torso_plate_platemail_sc_l_0
+  - first:
+      213: 21301398
+    second: torso_plate_platemail_sc_l_1
+  - first:
+      213: 21301400
+    second: torso_plate_platemail_sc_l_2
+  - first:
+      213: 21301402
+    second: torso_plate_platemail_sc_l_3
+  - first:
+      213: 21301404
+    second: torso_plate_platemail_sc_l_4
+  - first:
+      213: 21301406
+    second: torso_plate_platemail_sc_l_5
+  - first:
+      213: 21301408
+    second: torso_plate_platemail_sc_l_6
+  - first:
+      213: 21301410
+    second: torso_plate_platemail_sc_t_0
+  - first:
+      213: 21301412
+    second: torso_plate_platemail_sc_t_1
+  - first:
+      213: 21301414
+    second: torso_plate_platemail_sc_t_2
+  - first:
+      213: 21301416
+    second: torso_plate_platemail_sc_t_3
+  - first:
+      213: 21301418
+    second: torso_plate_platemail_sc_t_4
+  - first:
+      213: 21301420
+    second: torso_plate_platemail_sc_t_5
+  - first:
+      213: 21301422
+    second: torso_plate_platemail_sc_t_6
+  - first:
+      213: 21301424
+    second: chest_male_platemail_hu_0
+  - first:
+      213: 21301426
+    second: chest_male_platemail_hu_1
+  - first:
+      213: 21301428
+    second: chest_male_platemail_hu_2
+  - first:
+      213: 21301430
+    second: chest_male_platemail_hu_3
+  - first:
+      213: 21301432
+    second: chest_male_platemail_hu_4
+  - first:
+      213: 21301434
+    second: chest_male_platemail_hu_5
+  - first:
+      213: 21301436
+    second: chest_male_platemail_sh_r_0
+  - first:
+      213: 21301438
+    second: chest_male_platemail_sh_r_1
+  - first:
+      213: 21301440
+    second: chest_male_platemail_sh_r_2
+  - first:
+      213: 21301442
+    second: chest_male_platemail_sh_r_3
+  - first:
+      213: 21301444
+    second: chest_male_platemail_sh_r_4
+  - first:
+      213: 21301446
+    second: chest_male_platemail_sh_r_5
+  - first:
+      213: 21301448
+    second: chest_male_platemail_sh_r_6
+  - first:
+      213: 21301450
+    second: chest_male_platemail_sh_r_7
+  - first:
+      213: 21301452
+    second: chest_male_platemail_sh_r_8
+  - first:
+      213: 21301454
+    second: chest_male_platemail_sh_r_9
+  - first:
+      213: 21301456
+    second: chest_male_platemail_sh_r_10
+  - first:
+      213: 21301458
+    second: chest_male_platemail_sh_r_11
+  - first:
+      213: 21301460
+    second: chest_male_platemail_sh_r_12
+  - first:
+      213: 21301462
+    second: chest_male_platemail_sh_d_0
+  - first:
+      213: 21301464
+    second: chest_male_platemail_sh_d_1
+  - first:
+      213: 21301466
+    second: chest_male_platemail_sh_d_2
+  - first:
+      213: 21301468
+    second: chest_male_platemail_sh_d_3
+  - first:
+      213: 21301470
+    second: chest_male_platemail_sh_d_4
+  - first:
+      213: 21301472
+    second: chest_male_platemail_sh_d_5
+  - first:
+      213: 21301474
+    second: chest_male_platemail_sh_d_6
+  - first:
+      213: 21301476
+    second: chest_male_platemail_sh_d_7
+  - first:
+      213: 21301478
+    second: chest_male_platemail_sh_d_8
+  - first:
+      213: 21301480
+    second: chest_male_platemail_sh_d_9
+  - first:
+      213: 21301482
+    second: chest_male_platemail_sh_d_10
+  - first:
+      213: 21301484
+    second: chest_male_platemail_sh_d_11
+  - first:
+      213: 21301486
+    second: chest_male_platemail_sh_d_12
+  - first:
+      213: 21301488
+    second: chest_male_platemail_sh_l_0
+  - first:
+      213: 21301490
+    second: chest_male_platemail_sh_l_1
+  - first:
+      213: 21301492
+    second: chest_male_platemail_sh_l_2
+  - first:
+      213: 21301494
+    second: chest_male_platemail_sh_l_3
+  - first:
+      213: 21301496
+    second: chest_male_platemail_sh_l_4
+  - first:
+      213: 21301498
+    second: chest_male_platemail_sh_l_5
+  - first:
+      213: 21301500
+    second: chest_male_platemail_sh_l_6
+  - first:
+      213: 21301502
+    second: chest_male_platemail_sh_l_7
+  - first:
+      213: 21301504
+    second: chest_male_platemail_sh_l_8
+  - first:
+      213: 21301506
+    second: chest_male_platemail_sh_l_9
+  - first:
+      213: 21301508
+    second: chest_male_platemail_sh_l_10
+  - first:
+      213: 21301510
+    second: chest_male_platemail_sh_l_11
+  - first:
+      213: 21301512
+    second: chest_male_platemail_sh_l_12
+  - first:
+      213: 21301514
+    second: chest_male_platemail_sh_t_0
+  - first:
+      213: 21301516
+    second: chest_male_platemail_sh_t_1
+  - first:
+      213: 21301518
+    second: chest_male_platemail_sh_t_2
+  - first:
+      213: 21301520
+    second: chest_male_platemail_sh_t_3
+  - first:
+      213: 21301522
+    second: chest_male_platemail_sh_t_4
+  - first:
+      213: 21301524
+    second: chest_male_platemail_sh_t_5
+  - first:
+      213: 21301526
+    second: chest_male_platemail_sh_t_6
+  - first:
+      213: 21301528
+    second: chest_male_platemail_sh_t_7
+  - first:
+      213: 21301530
+    second: chest_male_platemail_sh_t_8
+  - first:
+      213: 21301532
+    second: chest_male_platemail_sh_t_9
+  - first:
+      213: 21301534
+    second: chest_male_platemail_sh_t_10
+  - first:
+      213: 21301536
+    second: chest_male_platemail_sh_t_11
+  - first:
+      213: 21301538
+    second: chest_male_platemail_sh_t_12
+  - first:
+      213: 21301540
+    second: chest_male_platemail_sl_r_0
+  - first:
+      213: 21301542
+    second: chest_male_platemail_sl_r_1
+  - first:
+      213: 21301544
+    second: chest_male_platemail_sl_r_2
+  - first:
+      213: 21301546
+    second: chest_male_platemail_sl_r_3
+  - first:
+      213: 21301548
+    second: chest_male_platemail_sl_r_4
+  - first:
+      213: 21301550
+    second: chest_male_platemail_sl_r_5
+  - first:
+      213: 21301552
+    second: chest_male_platemail_sl_d_0
+  - first:
+      213: 21301554
+    second: chest_male_platemail_sl_d_1
+  - first:
+      213: 21301556
+    second: chest_male_platemail_sl_d_2
+  - first:
+      213: 21301558
+    second: chest_male_platemail_sl_d_3
+  - first:
+      213: 21301560
+    second: chest_male_platemail_sl_d_4
+  - first:
+      213: 21301562
+    second: chest_male_platemail_sl_d_5
+  - first:
+      213: 21301564
+    second: chest_male_platemail_sl_l_0
+  - first:
+      213: 21301566
+    second: chest_male_platemail_sl_l_1
+  - first:
+      213: 21301568
+    second: chest_male_platemail_sl_l_2
+  - first:
+      213: 21301570
+    second: chest_male_platemail_sl_l_3
+  - first:
+      213: 21301572
+    second: chest_male_platemail_sl_l_4
+  - first:
+      213: 21301574
+    second: chest_male_platemail_sl_l_5
+  - first:
+      213: 21301576
+    second: chest_male_platemail_sl_t_0
+  - first:
+      213: 21301578
+    second: chest_male_platemail_sl_t_1
+  - first:
+      213: 21301580
+    second: chest_male_platemail_sl_t_2
+  - first:
+      213: 21301582
+    second: chest_male_platemail_sl_t_3
+  - first:
+      213: 21301584
+    second: chest_male_platemail_sl_t_4
+  - first:
+      213: 21301586
+    second: chest_male_platemail_sl_t_5
+  - first:
+      213: 21301588
+    second: chest_male_platemail_wc_r_0
+  - first:
+      213: 21301590
+    second: chest_male_platemail_wc_r_1
+  - first:
+      213: 21301592
+    second: chest_male_platemail_wc_r_2
+  - first:
+      213: 21301594
+    second: chest_male_platemail_wc_r_3
+  - first:
+      213: 21301596
+    second: chest_male_platemail_wc_r_4
+  - first:
+      213: 21301598
+    second: chest_male_platemail_wc_r_5
+  - first:
+      213: 21301600
+    second: chest_male_platemail_wc_r_6
+  - first:
+      213: 21301602
+    second: chest_male_platemail_wc_r_7
+  - first:
+      213: 21301604
+    second: chest_male_platemail_wc_r_8
+  - first:
+      213: 21301606
+    second: chest_male_platemail_wc_d_0
+  - first:
+      213: 21301608
+    second: chest_male_platemail_wc_d_1
+  - first:
+      213: 21301610
+    second: chest_male_platemail_wc_d_2
+  - first:
+      213: 21301612
+    second: chest_male_platemail_wc_d_3
+  - first:
+      213: 21301614
+    second: chest_male_platemail_wc_d_4
+  - first:
+      213: 21301616
+    second: chest_male_platemail_wc_d_5
+  - first:
+      213: 21301618
+    second: chest_male_platemail_wc_d_6
+  - first:
+      213: 21301620
+    second: chest_male_platemail_wc_d_7
+  - first:
+      213: 21301622
+    second: chest_male_platemail_wc_d_8
+  - first:
+      213: 21301624
+    second: chest_male_platemail_wc_l_0
+  - first:
+      213: 21301626
+    second: chest_male_platemail_wc_l_1
+  - first:
+      213: 21301628
+    second: chest_male_platemail_wc_l_2
+  - first:
+      213: 21301630
+    second: chest_male_platemail_wc_l_3
+  - first:
+      213: 21301632
+    second: chest_male_platemail_wc_l_4
+  - first:
+      213: 21301634
+    second: chest_male_platemail_wc_l_5
+  - first:
+      213: 21301636
+    second: chest_male_platemail_wc_l_6
+  - first:
+      213: 21301638
+    second: chest_male_platemail_wc_l_7
+  - first:
+      213: 21301640
+    second: chest_male_platemail_wc_l_8
+  - first:
+      213: 21301642
+    second: chest_male_platemail_wc_t_0
+  - first:
+      213: 21301644
+    second: chest_male_platemail_wc_t_1
+  - first:
+      213: 21301646
+    second: chest_male_platemail_wc_t_2
+  - first:
+      213: 21301648
+    second: chest_male_platemail_wc_t_3
+  - first:
+      213: 21301650
+    second: chest_male_platemail_wc_t_4
+  - first:
+      213: 21301652
+    second: chest_male_platemail_wc_t_5
+  - first:
+      213: 21301654
+    second: chest_male_platemail_wc_t_6
+  - first:
+      213: 21301656
+    second: chest_male_platemail_wc_t_7
+  - first:
+      213: 21301658
+    second: chest_male_platemail_wc_t_8
+  - first:
+      213: 21301660
+    second: chest_male_platemail_th_r_0
+  - first:
+      213: 21301662
+    second: chest_male_platemail_th_r_1
+  - first:
+      213: 21301664
+    second: chest_male_platemail_th_r_2
+  - first:
+      213: 21301666
+    second: chest_male_platemail_th_r_3
+  - first:
+      213: 21301668
+    second: chest_male_platemail_th_r_4
+  - first:
+      213: 21301670
+    second: chest_male_platemail_th_r_5
+  - first:
+      213: 21301672
+    second: chest_male_platemail_th_r_6
+  - first:
+      213: 21301674
+    second: chest_male_platemail_th_r_7
+  - first:
+      213: 21301676
+    second: chest_male_platemail_th_d_0
+  - first:
+      213: 21301678
+    second: chest_male_platemail_th_d_1
+  - first:
+      213: 21301680
+    second: chest_male_platemail_th_d_2
+  - first:
+      213: 21301682
+    second: chest_male_platemail_th_d_3
+  - first:
+      213: 21301684
+    second: chest_male_platemail_th_d_4
+  - first:
+      213: 21301686
+    second: chest_male_platemail_th_d_5
+  - first:
+      213: 21301688
+    second: chest_male_platemail_th_d_6
+  - first:
+      213: 21301690
+    second: chest_male_platemail_th_d_7
+  - first:
+      213: 21301692
+    second: chest_male_platemail_th_l_0
+  - first:
+      213: 21301694
+    second: chest_male_platemail_th_l_1
+  - first:
+      213: 21301696
+    second: chest_male_platemail_th_l_2
+  - first:
+      213: 21301698
+    second: chest_male_platemail_th_l_3
+  - first:
+      213: 21301700
+    second: chest_male_platemail_th_l_4
+  - first:
+      213: 21301702
+    second: chest_male_platemail_th_l_5
+  - first:
+      213: 21301704
+    second: chest_male_platemail_th_l_6
+  - first:
+      213: 21301706
+    second: chest_male_platemail_th_l_7
+  - first:
+      213: 21301708
+    second: chest_male_platemail_th_t_0
+  - first:
+      213: 21301710
+    second: chest_male_platemail_th_t_1
+  - first:
+      213: 21301712
+    second: chest_male_platemail_th_t_2
+  - first:
+      213: 21301714
+    second: chest_male_platemail_th_t_3
+  - first:
+      213: 21301716
+    second: chest_male_platemail_th_t_4
+  - first:
+      213: 21301718
+    second: chest_male_platemail_th_t_5
+  - first:
+      213: 21301720
+    second: chest_male_platemail_th_t_6
+  - first:
+      213: 21301722
+    second: chest_male_platemail_th_t_7
+  - first:
+      213: 21301724
+    second: chest_male_platemail_sc_r_0
+  - first:
+      213: 21301726
+    second: chest_male_platemail_sc_r_1
+  - first:
+      213: 21301728
+    second: chest_male_platemail_sc_r_2
+  - first:
+      213: 21301730
+    second: chest_male_platemail_sc_r_3
+  - first:
+      213: 21301732
+    second: chest_male_platemail_sc_r_4
+  - first:
+      213: 21301734
+    second: chest_male_platemail_sc_r_5
+  - first:
+      213: 21301736
+    second: chest_male_platemail_sc_r_6
+  - first:
+      213: 21301738
+    second: chest_male_platemail_sc_d_0
+  - first:
+      213: 21301740
+    second: chest_male_platemail_sc_d_1
+  - first:
+      213: 21301742
+    second: chest_male_platemail_sc_d_2
+  - first:
+      213: 21301744
+    second: chest_male_platemail_sc_d_3
+  - first:
+      213: 21301746
+    second: chest_male_platemail_sc_d_4
+  - first:
+      213: 21301748
+    second: chest_male_platemail_sc_d_5
+  - first:
+      213: 21301750
+    second: chest_male_platemail_sc_d_6
+  - first:
+      213: 21301752
+    second: chest_male_platemail_sc_l_0
+  - first:
+      213: 21301754
+    second: chest_male_platemail_sc_l_1
+  - first:
+      213: 21301756
+    second: chest_male_platemail_sc_l_2
+  - first:
+      213: 21301758
+    second: chest_male_platemail_sc_l_3
+  - first:
+      213: 21301760
+    second: chest_male_platemail_sc_l_4
+  - first:
+      213: 21301762
+    second: chest_male_platemail_sc_l_5
+  - first:
+      213: 21301764
+    second: chest_male_platemail_sc_l_6
+  - first:
+      213: 21301766
+    second: chest_male_platemail_sc_t_0
+  - first:
+      213: 21301768
+    second: chest_male_platemail_sc_t_1
+  - first:
+      213: 21301770
+    second: chest_male_platemail_sc_t_2
+  - first:
+      213: 21301772
+    second: chest_male_platemail_sc_t_3
+  - first:
+      213: 21301774
+    second: chest_male_platemail_sc_t_4
+  - first:
+      213: 21301776
+    second: chest_male_platemail_sc_t_5
+  - first:
+      213: 21301778
+    second: chest_male_platemail_sc_t_6
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chest_male_platemail_hu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b805410000000000800000000000000
+      internalID: 21301424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_hu_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b805410000000000800000000000000
+      internalID: 21301426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_hu_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b805410000000000800000000000000
+      internalID: 21301428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_hu_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b805410000000000800000000000000
+      internalID: 21301430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_hu_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b805410000000000800000000000000
+      internalID: 21301432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_hu_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab805410000000000800000000000000
+      internalID: 21301434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_r_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb805410000000000800000000000000
+      internalID: 21301436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_r_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb805410000000000800000000000000
+      internalID: 21301438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_r_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c805410000000000800000000000000
+      internalID: 21301440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_r_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c805410000000000800000000000000
+      internalID: 21301442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_r_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c805410000000000800000000000000
+      internalID: 21301444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_r_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c805410000000000800000000000000
+      internalID: 21301446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_r_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c805410000000000800000000000000
+      internalID: 21301448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_r_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac805410000000000800000000000000
+      internalID: 21301450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_r_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc805410000000000800000000000000
+      internalID: 21301452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_r_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec805410000000000800000000000000
+      internalID: 21301454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_r_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d805410000000000800000000000000
+      internalID: 21301456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_r_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d805410000000000800000000000000
+      internalID: 21301458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_r_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d805410000000000800000000000000
+      internalID: 21301460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_d_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d805410000000000800000000000000
+      internalID: 21301462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_d_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d805410000000000800000000000000
+      internalID: 21301464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_d_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad805410000000000800000000000000
+      internalID: 21301466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_d_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd805410000000000800000000000000
+      internalID: 21301468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_d_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed805410000000000800000000000000
+      internalID: 21301470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_d_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e805410000000000800000000000000
+      internalID: 21301472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_d_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e805410000000000800000000000000
+      internalID: 21301474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_d_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e805410000000000800000000000000
+      internalID: 21301476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_d_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e805410000000000800000000000000
+      internalID: 21301478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_d_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e805410000000000800000000000000
+      internalID: 21301480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_d_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae805410000000000800000000000000
+      internalID: 21301482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_d_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce805410000000000800000000000000
+      internalID: 21301484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_d_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee805410000000000800000000000000
+      internalID: 21301486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_l_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f805410000000000800000000000000
+      internalID: 21301488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_l_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f805410000000000800000000000000
+      internalID: 21301490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_l_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f805410000000000800000000000000
+      internalID: 21301492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_l_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f805410000000000800000000000000
+      internalID: 21301494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_l_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f805410000000000800000000000000
+      internalID: 21301496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_l_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af805410000000000800000000000000
+      internalID: 21301498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_l_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf805410000000000800000000000000
+      internalID: 21301500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_l_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef805410000000000800000000000000
+      internalID: 21301502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_l_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00905410000000000800000000000000
+      internalID: 21301504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_l_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20905410000000000800000000000000
+      internalID: 21301506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_l_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40905410000000000800000000000000
+      internalID: 21301508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_l_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60905410000000000800000000000000
+      internalID: 21301510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_l_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80905410000000000800000000000000
+      internalID: 21301512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_t_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0905410000000000800000000000000
+      internalID: 21301514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_t_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0905410000000000800000000000000
+      internalID: 21301516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_t_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0905410000000000800000000000000
+      internalID: 21301518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_t_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01905410000000000800000000000000
+      internalID: 21301520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_t_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21905410000000000800000000000000
+      internalID: 21301522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_t_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41905410000000000800000000000000
+      internalID: 21301524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_t_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61905410000000000800000000000000
+      internalID: 21301526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_t_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81905410000000000800000000000000
+      internalID: 21301528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_t_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1905410000000000800000000000000
+      internalID: 21301530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_t_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1905410000000000800000000000000
+      internalID: 21301532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_t_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1905410000000000800000000000000
+      internalID: 21301534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_t_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02905410000000000800000000000000
+      internalID: 21301536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sh_t_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22905410000000000800000000000000
+      internalID: 21301538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sl_r_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42905410000000000800000000000000
+      internalID: 21301540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sl_r_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62905410000000000800000000000000
+      internalID: 21301542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sl_r_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82905410000000000800000000000000
+      internalID: 21301544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sl_r_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2905410000000000800000000000000
+      internalID: 21301546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sl_r_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2905410000000000800000000000000
+      internalID: 21301548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sl_r_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2905410000000000800000000000000
+      internalID: 21301550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sl_d_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03905410000000000800000000000000
+      internalID: 21301552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sl_d_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23905410000000000800000000000000
+      internalID: 21301554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sl_d_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43905410000000000800000000000000
+      internalID: 21301556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sl_d_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63905410000000000800000000000000
+      internalID: 21301558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sl_d_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83905410000000000800000000000000
+      internalID: 21301560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sl_d_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3905410000000000800000000000000
+      internalID: 21301562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sl_l_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3905410000000000800000000000000
+      internalID: 21301564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sl_l_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3905410000000000800000000000000
+      internalID: 21301566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sl_l_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04905410000000000800000000000000
+      internalID: 21301568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sl_l_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24905410000000000800000000000000
+      internalID: 21301570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sl_l_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44905410000000000800000000000000
+      internalID: 21301572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sl_l_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64905410000000000800000000000000
+      internalID: 21301574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sl_t_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84905410000000000800000000000000
+      internalID: 21301576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sl_t_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4905410000000000800000000000000
+      internalID: 21301578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sl_t_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4905410000000000800000000000000
+      internalID: 21301580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sl_t_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4905410000000000800000000000000
+      internalID: 21301582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sl_t_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05905410000000000800000000000000
+      internalID: 21301584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sl_t_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25905410000000000800000000000000
+      internalID: 21301586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_wc_r_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45905410000000000800000000000000
+      internalID: 21301588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_wc_r_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65905410000000000800000000000000
+      internalID: 21301590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_wc_r_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85905410000000000800000000000000
+      internalID: 21301592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_wc_r_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5905410000000000800000000000000
+      internalID: 21301594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_wc_r_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5905410000000000800000000000000
+      internalID: 21301596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_wc_r_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5905410000000000800000000000000
+      internalID: 21301598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_wc_r_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06905410000000000800000000000000
+      internalID: 21301600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_wc_r_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26905410000000000800000000000000
+      internalID: 21301602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_wc_r_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46905410000000000800000000000000
+      internalID: 21301604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_wc_d_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66905410000000000800000000000000
+      internalID: 21301606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_wc_d_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86905410000000000800000000000000
+      internalID: 21301608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_wc_d_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6905410000000000800000000000000
+      internalID: 21301610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_wc_d_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6905410000000000800000000000000
+      internalID: 21301612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_wc_d_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6905410000000000800000000000000
+      internalID: 21301614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_wc_d_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07905410000000000800000000000000
+      internalID: 21301616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_wc_d_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27905410000000000800000000000000
+      internalID: 21301618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_wc_d_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47905410000000000800000000000000
+      internalID: 21301620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_wc_d_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67905410000000000800000000000000
+      internalID: 21301622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_wc_l_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87905410000000000800000000000000
+      internalID: 21301624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_wc_l_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7905410000000000800000000000000
+      internalID: 21301626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_wc_l_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7905410000000000800000000000000
+      internalID: 21301628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_wc_l_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7905410000000000800000000000000
+      internalID: 21301630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_wc_l_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08905410000000000800000000000000
+      internalID: 21301632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_wc_l_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28905410000000000800000000000000
+      internalID: 21301634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_wc_l_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48905410000000000800000000000000
+      internalID: 21301636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_wc_l_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68905410000000000800000000000000
+      internalID: 21301638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_wc_l_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88905410000000000800000000000000
+      internalID: 21301640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_wc_t_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8905410000000000800000000000000
+      internalID: 21301642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_wc_t_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8905410000000000800000000000000
+      internalID: 21301644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_wc_t_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8905410000000000800000000000000
+      internalID: 21301646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_wc_t_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09905410000000000800000000000000
+      internalID: 21301648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_wc_t_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29905410000000000800000000000000
+      internalID: 21301650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_wc_t_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49905410000000000800000000000000
+      internalID: 21301652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_wc_t_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69905410000000000800000000000000
+      internalID: 21301654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_wc_t_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89905410000000000800000000000000
+      internalID: 21301656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_wc_t_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9905410000000000800000000000000
+      internalID: 21301658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_th_r_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9905410000000000800000000000000
+      internalID: 21301660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_th_r_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9905410000000000800000000000000
+      internalID: 21301662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_th_r_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a905410000000000800000000000000
+      internalID: 21301664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_th_r_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a905410000000000800000000000000
+      internalID: 21301666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_th_r_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a905410000000000800000000000000
+      internalID: 21301668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_th_r_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a905410000000000800000000000000
+      internalID: 21301670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_th_r_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a905410000000000800000000000000
+      internalID: 21301672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_th_r_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa905410000000000800000000000000
+      internalID: 21301674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_th_d_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca905410000000000800000000000000
+      internalID: 21301676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_th_d_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea905410000000000800000000000000
+      internalID: 21301678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_th_d_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b905410000000000800000000000000
+      internalID: 21301680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_th_d_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b905410000000000800000000000000
+      internalID: 21301682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_th_d_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b905410000000000800000000000000
+      internalID: 21301684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_th_d_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b905410000000000800000000000000
+      internalID: 21301686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_th_d_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b905410000000000800000000000000
+      internalID: 21301688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_th_d_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab905410000000000800000000000000
+      internalID: 21301690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_th_l_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb905410000000000800000000000000
+      internalID: 21301692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_th_l_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb905410000000000800000000000000
+      internalID: 21301694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_th_l_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c905410000000000800000000000000
+      internalID: 21301696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_th_l_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c905410000000000800000000000000
+      internalID: 21301698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_th_l_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c905410000000000800000000000000
+      internalID: 21301700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_th_l_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c905410000000000800000000000000
+      internalID: 21301702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_th_l_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c905410000000000800000000000000
+      internalID: 21301704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_th_l_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac905410000000000800000000000000
+      internalID: 21301706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_th_t_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc905410000000000800000000000000
+      internalID: 21301708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_th_t_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec905410000000000800000000000000
+      internalID: 21301710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_th_t_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d905410000000000800000000000000
+      internalID: 21301712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_th_t_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d905410000000000800000000000000
+      internalID: 21301714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_th_t_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d905410000000000800000000000000
+      internalID: 21301716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_th_t_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d905410000000000800000000000000
+      internalID: 21301718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_th_t_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d905410000000000800000000000000
+      internalID: 21301720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_th_t_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad905410000000000800000000000000
+      internalID: 21301722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sc_r_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd905410000000000800000000000000
+      internalID: 21301724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sc_r_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed905410000000000800000000000000
+      internalID: 21301726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sc_r_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e905410000000000800000000000000
+      internalID: 21301728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sc_r_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e905410000000000800000000000000
+      internalID: 21301730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sc_r_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e905410000000000800000000000000
+      internalID: 21301732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sc_r_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e905410000000000800000000000000
+      internalID: 21301734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sc_r_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e905410000000000800000000000000
+      internalID: 21301736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sc_d_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae905410000000000800000000000000
+      internalID: 21301738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sc_d_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce905410000000000800000000000000
+      internalID: 21301740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sc_d_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee905410000000000800000000000000
+      internalID: 21301742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sc_d_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f905410000000000800000000000000
+      internalID: 21301744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sc_d_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f905410000000000800000000000000
+      internalID: 21301746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sc_d_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f905410000000000800000000000000
+      internalID: 21301748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sc_d_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f905410000000000800000000000000
+      internalID: 21301750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sc_l_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f905410000000000800000000000000
+      internalID: 21301752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sc_l_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af905410000000000800000000000000
+      internalID: 21301754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sc_l_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf905410000000000800000000000000
+      internalID: 21301756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sc_l_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef905410000000000800000000000000
+      internalID: 21301758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sc_l_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a05410000000000800000000000000
+      internalID: 21301760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sc_l_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a05410000000000800000000000000
+      internalID: 21301762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sc_l_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a05410000000000800000000000000
+      internalID: 21301764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sc_t_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a05410000000000800000000000000
+      internalID: 21301766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sc_t_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a05410000000000800000000000000
+      internalID: 21301768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sc_t_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a05410000000000800000000000000
+      internalID: 21301770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sc_t_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a05410000000000800000000000000
+      internalID: 21301772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sc_t_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a05410000000000800000000000000
+      internalID: 21301774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sc_t_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a05410000000000800000000000000
+      internalID: 21301776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_male_platemail_sc_t_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a05410000000000800000000000000
+      internalID: 21301778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: character
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
